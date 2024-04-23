@@ -18,7 +18,6 @@ Step 5:Iterate through each word in the tokenized text.<br>
 •	Print the unique sets of synonyms and antonyms.
 <H3>Program:</H3>
 
-Insert your code here:
 ```
 !pip install nltk
 
@@ -81,10 +80,11 @@ for sentence in sentences:
 ```
 
 <H3>Output</H3>
-<h5>Words and the respective POS-Tags :</h5>
+<h3>Words and the respective POS-Tags :</h3>
 ![image](https://github.com/Saibandhavi75/Ex-6--AAI/assets/94208895/4bee4172-a214-4461-ab93-dc2ca27fa3b8)
-<h6>Synonyms and Antonyms for verbs in each sentence :</h6>
-![image](https://github.com/Saibandhavi75/Ex-6--AAI/assets/94208895/2fcc28ca-592a-4ce7-bf88-b622ef1cd9b1)
+<h3>Synonyms and Antonyms for verbs in each sentence :</h3>
+
+
 
 <H3>Result:</H3>
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
