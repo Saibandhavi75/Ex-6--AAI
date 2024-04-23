@@ -81,9 +81,13 @@ for sentence in sentences:
 
 <H3>Output</H3>
 <h3>Words and the respective POS-Tags :</h3>
-![image](https://github.com/Saibandhavi75/Ex-6--AAI/assets/94208895/4bee4172-a214-4461-ab93-dc2ca27fa3b8)
+
+![1](https://github.com/Saibandhavi75/Ex-6--AAI/assets/94208895/392ac5b2-6955-4ffd-9534-8da8018ddbf1)
+
+
 <h3>Synonyms and Antonyms for verbs in each sentence :</h3>
 
+![2](https://github.com/Saibandhavi75/Ex-6--AAI/assets/94208895/5c54ea4f-bafc-401a-9981-ea63e3638c36)
 
 
 <H3>Result:</H3>
